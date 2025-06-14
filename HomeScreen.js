@@ -81,7 +81,7 @@ export default function HomeScreen({ navigation }) {
         encoding: FileSystem.EncodingType.Base64,
       });
   
-      const response = await fetch('http://192.168.68.56:8000/analyze-image', {
+      const response = await fetch('http://'ENTERYOURLOCALIP':8000/analyze-image', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ image_base64: base64Image }),
