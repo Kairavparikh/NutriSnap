@@ -1,0 +1,1 @@
+["Here's a list of the food items in the image:\n\n- Avocado slices\n- Lentils\n- Sweet potato cubes\n- Cherry tomatoes\n- Saut\u00e9ed spinach\n- Cauliflower\n- Mushrooms\n- Hummus"]

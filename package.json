@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-native-picker/picker": "^2.11.0",
+    "@react-navigation/native": "^7.1.9",
+    "@react-navigation/stack": "^7.3.2",
+    "expo": "^53.0.9",
+    "expo-file-system": "~18.1.10",
+    "expo-image-picker": "^16.1.4",
+    "expo-linear-gradient": "~14.1.4",
+    "react": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-circular-progress-indicator": "^4.4.2",
+    "react-native-gesture-handler": "^2.25.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-paper": "^5.14.5",
+    "react-native-reanimated": "^3.17.5",
+    "react-native-svg": "^15.12.0",
+    "react-native-vector-icons": "^10.2.0"
+  }
+}
